@@ -47,7 +47,6 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 💻 Canva...
 
 ![Logo](https://miro.medium.com/max/1400/1*wcEYa9AjnMZxXAau2iuhYw.png)
-<img scr="https://miro.medium.com/max/1400/1*wcEYa9AjnMZxXAau2iuhYw.png">
 ## Contact Me!
 
 📧 gitansh16k@gmail.com
