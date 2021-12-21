@@ -5,8 +5,10 @@ I am an Enthusiastic guy with high goals. I like to invest my time in Researchin
 Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gitanshkapoor.github.io/Portfolio/)
+[![resume](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=triangle&logoColor=white)](https://drive.google.com/file/d/1ixaCU5ED6m66ahOABd6oZZLdJbdYjV9q/view?usp=sharing)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh-kapoor-31b790202/)
+
 ## Know Me More!
 👩‍💻 I'm currently working on DSA and Front End Web Development.
 
@@ -16,7 +18,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 
 💬 Ask me about Web Development.
 
-⚡️ There are About 700 Coding Languages and I Know 4 of them.😂😂
+⚡️ There are About 700 Coding Languages and I Know Some of them.😂😂
 ## 🛠 Skills
 💻 C/C++
 
