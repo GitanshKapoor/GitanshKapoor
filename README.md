@@ -11,15 +11,15 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
 
 ## Know Me More!
-👩‍💻 I'm currently working on DSA and Front End Web Development.
+👩‍💻 I'm currently working on Front End Web Development.
 
 🧠 I'm currently learning DSA.
 
 👯‍♀️ I'm looking to collaborate on Software Development.
 
-💬 Ask me about Web Development.
+💬 Ask me about Front-End Web Development.
 
-⚡️ There are About 700 Coding Languages and I Know Some of them.😂😂
+⚡️ Fun Fact--There are About 700 Coding Languages and I Know Some of them.😂😂
 ## 🛠 Skills
 💻 C/C++, OOPs, Python, Javascript, HTML, CSS,
 
