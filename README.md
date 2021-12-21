@@ -8,6 +8,8 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 [![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1ixaCU5ED6m66ahOABd6oZZLdJbdYjV9q/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh-kapoor-31b790202/)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
+[![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
+[![instagram](https://img.shields.io/badge/qwiklabs-white?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/g.kapoor16/)
 
 ## Know Me More!
 👩‍💻 I'm currently working on DSA and Front End Web Development.
