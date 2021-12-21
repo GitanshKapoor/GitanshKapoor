@@ -1,5 +1,3 @@
-
-![Logo](https://cdn.dribbble.com/users/3170671/screenshots/9481479/media/33626ea5f9173800d89701e559f86855.png)
 # Hi, I'm Gitansh! 👋
 
 I am an Enthusiastic guy with high goals. I like to invest my time in Researching and doing creative projects and I like to establish a cordial workplace around me. Like to develop new skills. Skilled in Python, C/C++,HTML/CSS ,Coral Draw, Adobe Photoshop.
