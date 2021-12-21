@@ -22,9 +22,9 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 ## 🛠 Skills
 💻 C/C++, OOPs, Python, Javascript, HTML, CSS,
 
-💻 React.js,💻 Next.Js,💻 Search Engine Optimization (SEO),
+💻 React.js, Next.Js, Search Engine Optimization (SEO),
 
-💻 Visual Basic .NET (VB.NET),💻 CorelDRAW,💻 SQL, Canva...
+💻 Visual Basic .NET (VB.NET), CorelDRAW, SQL, Canva...
 
 ![Logo](https://miro.medium.com/max/1400/1*wcEYa9AjnMZxXAau2iuhYw.png)
 ## Contact Me!
