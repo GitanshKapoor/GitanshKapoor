@@ -49,4 +49,4 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 
 📧 gitansh16k@gmail.com
 
-🏢 www.linkedin.com/in/gitansh-kapoor-31b790202/
+🏢 linkedin.com/in/gitansh-kapoor-31b790202/
