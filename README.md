@@ -21,7 +21,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 💬 Ask me about Front-End Web Development.
 
 ⚡️ Fun Fact--There are About 700 Coding Languages and I Know Some of them.😂😂
-## 🛠 Skills
+## 🛠 Skills & Tools
 
 <p align="center">
       <br />
