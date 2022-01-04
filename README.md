@@ -11,6 +11,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
 
 ## About Me!
+
 👩‍💻 I'm currently working on Front End Web Development.
 
 🧠 I'm currently learning DSA.
@@ -21,13 +22,29 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 
 ⚡️ Fun Fact--There are About 700 Coding Languages and I Know Some of them.😂😂
 ## 🛠 Skills
-💻 C/C++, OOPs, Python, Javascript, HTML, CSS,
 
-💻 React.js, Next.Js, Search Engine Optimization (SEO),
+<p align="center">
+      <br />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/java.png" alt="Java" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403229-7e12f96b-7e7d-4270-a4cf-4086b8c184ce.png" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403206-81d6abb0-b499-47e7-b1db-575fac65a5f9.png" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://user-images.githubusercontent.com/85267939/147403234-801afc0b-79a9-4b0a-ac80-0caf1986373c.png" alt="css" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403222-87e282f0-7129-43b2-89ad-dcd6de171ff5.png" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/nodejs.png" alt="node.js" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/npm.png" alt="npm" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403252-108db13b-82c7-4ff6-b6e4-fbf682d130d2.png" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403247-4d01c1f7-9d6b-4879-ae4a-f8e5b21ad51b.png" alt="bootstrap" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403268-d3a818fa-d4eb-4b9a-b5d0-682f21eb1be6.png" alt="bash" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403278-9676a11c-dd36-43bd-bf2e-7088f719e899.png" alt="visual studio" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/85267939/147403280-4282594e-173c-49e4-9b77-88499c03f258.png" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/misc/edge.png" alt="edge" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/google_cloud_platform.png" alt="GCP" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/office_365.png" alt="MS-Office" style="vertical-align:top; margin:4px">
+</p>
+<br />
 
-💻 Visual Basic .NET (VB.NET), CorelDRAW, SQL, Canva...
-
-![Logo](https://miro.medium.com/max/1400/1*wcEYa9AjnMZxXAau2iuhYw.png)
 ## Contact Me!
 
 📧 gitansh16k@gmail.com
