@@ -36,7 +36,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 <img src="https://user-images.githubusercontent.com/85267939/147403252-108db13b-82c7-4ff6-b6e4-fbf682d130d2.png" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403247-4d01c1f7-9d6b-4879-ae4a-f8e5b21ad51b.png" alt="bootstrap" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403268-d3a818fa-d4eb-4b9a-b5d0-682f21eb1be6.png" alt="bash" style="vertical-align:top; margin:4px">
-<img src="https://badgen.net/badge/icon/atom?icon=atom&label" alt="Atom" style="vertical-align:top; margin:4px">
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/cae9c5b57f247e1a897c9b06994ed335353e5d33/gg.png" alt="Atom" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403278-9676a11c-dd36-43bd-bf2e-7088f719e899.png" alt="visual studio" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403280-4282594e-173c-49e4-9b77-88499c03f258.png" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" style="vertical-align:top; margin:4px">
@@ -45,7 +45,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/office_365.png" alt="MS-Office" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="vertical-align:top; margin:4px">     
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" style="vertical-align:top; margin:4px">
-<img src="" alt="Adobe Photoshop" style="vertical-align:top; margin:4px">     
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/cae9c5b57f247e1a897c9b06994ed335353e5d33/ff.png" alt="Adobe Photoshop" style="vertical-align:top; margin:4px">     
 </p>
 <br />
 
