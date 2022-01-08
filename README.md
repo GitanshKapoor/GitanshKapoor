@@ -44,6 +44,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/google_cloud_platform.png" alt="GCP" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/services/office_365.png" alt="MS-Office" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Kubuntu_Linux-003399?style=for-the-badge&logo=debian&logoColor=white" alt="Kubuntu" style="vertical-align:top; margin:4px"> 
 <img src="https://img.shields.io/badge/Zorin_Linux-0D96F6?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin" style="vertical-align:top; margin:4px"> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="vertical-align:top; margin:4px">     
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" style="vertical-align:top; margin:4px">
