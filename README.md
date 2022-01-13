@@ -3,12 +3,22 @@
 I am an Enthusiastic guy with high goals. I like to invest my time in Researching and doing creative projects and I like to establish a cordial workplace around me. Like to develop new skills. Skilled in Python, C/C++,HTML/CSS ,Coral Draw, Adobe Photoshop.
 
 Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
+
+
+<div align="center">
+  
+<!--   ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg) -->
+  ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS&color=red)
+ </div>
+ 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gitanshkapoor.github.io/Portfolio/)
 [![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1ixaCU5ED6m66ahOABd6oZZLdJbdYjV9q/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh-kapoor-31b790202/)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
+
+
 
 ## About Me!
 
@@ -21,6 +31,7 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 💬 Ask me about Front-End Web Development.
 
 ⚡️ Fun Fact-There are About 700+ Coding Languages and I Know Some of them.😉😉
+
 ## 🛠 Skills & Tools
 
 <p align="center">
