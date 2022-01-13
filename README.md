@@ -5,7 +5,6 @@ I am an Enthusiastic guy with high goals. I like to invest my time in Researchin
 Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 
 
-<div align="center">
   
 <!--   ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg) -->
   ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS&color=red)
