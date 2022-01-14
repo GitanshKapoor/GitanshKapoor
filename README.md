@@ -4,11 +4,6 @@ I am an Enthusiastic guy with high goals. I like to invest my time in Researchin
 
 Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 
-
-  
-<!--   ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg) -->
-  ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS&color=red)
- </div>
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gitanshkapoor.github.io/Portfolio/)
@@ -17,7 +12,9 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
 
-
+<!--   ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg) -->
+  ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS&color=red)
+ </div>
 
 ## About Me!
 
