@@ -20,11 +20,9 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 
 👩‍💻 I'm currently working on Front End Web Development.
 
-🧠 I'm currently learning DSA.
+🧠 I'm currently learning Data Analytics.
 
 👯‍♀️ I'm looking to collaborate on Software Development.
-
-💬 Ask me about Front-End Web Development.
 
 ⚡️ Fun Fact-There are About 300+ Coding Languages and I Know Some of them.😉😉
 
@@ -64,3 +62,5 @@ Enthusiastic | Team Player | Career Oriented | Challenge Acceptor | Strategist.
 📧 gitansh16k@gmail.com
 
 🏢 linkedin.com/in/gitansh-kapoor-31b790202/
+
+🌐 www.gitansh.tech
