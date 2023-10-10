@@ -31,13 +31,12 @@ I am a ML Data Assocaite-I Intern at Amazon and am a BCA Graduate from VIPS, Del
 <img src="https://user-images.githubusercontent.com/85267939/147403206-81d6abb0-b499-47e7-b1db-575fac65a5f9.png" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://user-images.githubusercontent.com/85267939/147403234-801afc0b-79a9-4b0a-ac80-0caf1986373c.png" alt="css" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403222-87e282f0-7129-43b2-89ad-dcd6de171ff5.png" alt="js" style="vertical-align:top; margin:4px">
- 
- <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="wp" width="50" height="50" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="sql" width="70" height="70" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="50" height="50" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="inteliJ" width="50" height="50" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="50" height="50" style="vertical-align:top; margin:4px">
- 
+<img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="wp" width="50" height="50" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="sql" width="70" height="70" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="50" height="50" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="inteliJ" width="50" height="50" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws" width="50" height="50" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="ST" width="50" height="50" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403247-4d01c1f7-9d6b-4879-ae4a-f8e5b21ad51b.png" alt="bootstrap" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Atom-14354C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403280-4282594e-173c-49e4-9b77-88499c03f258.png" alt="vscode" style="vertical-align:top; margin:4px">
