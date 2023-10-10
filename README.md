@@ -17,7 +17,7 @@ I am a ML Data Assocaite-I Intern at Amazon and am a BCA Graduate from VIPS, Del
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gitansh.tech/)
-[![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://drive.google.com/file/d/10TC1neTLwiCxHYflL7_9KGXxyvIEKVNM/view?usp=drive_link)
+[![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://zerp.me/olhPI)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
