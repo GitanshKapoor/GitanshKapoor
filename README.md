@@ -1,11 +1,11 @@
 
 # Hi, I'm Gitansh! 👋
 
-I am a ML Data Assocaite-I Intern at Amazon and am a BCA Graduate from VIPS, Delhi.
+I am a Data Analyst Intern at IBM || EX-ML-DA'I Intern at Amazon || VIPS'23
 
 ## About Me!
 
-👩‍💻 I'm currently working at Amazon as a ML Data Assocaite-I Intern.
+👩‍💻 I'm currently working at IBM as a Data Analyst Intern.
 
 🧠 I am deeply passionate about DevOps, AI/ML, Data Eng. and Cloud.
 
