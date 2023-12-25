@@ -51,6 +51,4 @@ I am a Data Analyst Intern at IBM || EX-ML-DA'I Intern at Amazon || VIPS'23
 
 🏢 Linkedin: @gitansh16k
 
-📟Biopage: zerp.me/gitansh16k
-
-🌐 Web: www.gitansh.tech
+🌐 Web: xerp.me/gitansh16k
