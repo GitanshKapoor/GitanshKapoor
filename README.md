@@ -7,7 +7,7 @@ I am a Data Analyst Intern at IBM || EX-ML-DA'I Intern at Amazon || VIPS'23
 
 👩‍💻 I'm currently working at IBM as a Data Analyst Intern.
 
-🧠 I am deeply passionate about DevOps, AI/ML, Data Eng. and Cloud.
+🧠 I am deeply passionate about DevOps, Data Engrg. and Cloudware Engrg.
 
 👯‍♀️ I am a Team Player so, I like to work in a Team.
 
