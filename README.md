@@ -1,13 +1,13 @@
 
 # Hi, I'm Gitansh! 👋
 
-I am a Data Analyst Intern at IBM || EX-ML-DA'I Intern at Amazon || VIPS'23
+Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Ex-Zoutonite || Collegedunia || VIPS'23
 
 ## About Me!
 
-👩‍💻 I'm currently working at IBM as a Data Analyst Intern.
+👩‍💻 I'm currently working at Accenture as an Application Development Associate.
 
-🧠 I am deeply passionate about DevOps, Data Engrg. and Cloudware Engrg.
+🧠 I am deeply passionate about DevOps Eng./Automation Eng., Data Eng. and Cloudware Eng.
 
 👯‍♀️ I am a Team Player so, I like to work in a Team.
 
