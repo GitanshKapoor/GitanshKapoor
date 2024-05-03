@@ -1,7 +1,7 @@
 
 # Hi, I'm Gitansh! 👋
 
-Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Microsoft Certified || AWS Cloud Practioner
+Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Microsoft Certified || AWS Cloud Practitioner
 
 ## About Me!
 
@@ -13,14 +13,18 @@ Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Microsoft
 
 📖 I'm a Research Oriented guy, I like to learn new about New Tech and Tools. 
 
-⚡️ Fun Fact-There are About 300+ Coding Languages and I Know Some of them.😉😉
+⚡️ Fun Fact There are About 300+ Coding Languages and I Know Some of them.😉😉
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xerp.me/gitansh16k)
 [![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://zerp.me/olhPI)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
-[![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
+
+## ☁ Cloud Profile
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/gitansh16k/transcript/7k2eju3qj5zrmrn?tab=credentials-tab)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://coursera.org/verify/9YNRF9N664RZ)
+[![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 
 ## 🛠 Skills & Tools
 
