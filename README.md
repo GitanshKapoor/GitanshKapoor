@@ -1,7 +1,7 @@
 
 # Hi, I'm Gitansh! 👋
 
-Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Ex-Zoutonite || Collegedunia || VIPS'23
+Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Microsoft Certified || AWS Cloud Practioner
 
 ## About Me!
 
