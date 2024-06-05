@@ -1,13 +1,13 @@
 
 # Hi, I'm Gitansh! 👋
 
-Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Microsoft Certified || AWS Cloud Practitioner
+Software Engineer @Accenture | Ex-IBM | Ex-Amazon | Microsoft, Oracle & AWS Certified
 
 ## About Me!
 
-👩‍💻 I'm currently working at Accenture as an Application Development Associate.
+👩‍💻 I'm currently working at Accenture as a Software Engineer.
 
-🧠 I am deeply passionate about DevOps Eng./Automation Eng., Data Eng. and Cloudware Eng.
+🧠 I am deeply passionate about DevOps Eng./Automation Eng., CloudOps Eng. and Cloud Eng.
 
 👯‍♀️ I am a Team Player so, I like to work in a Team.
 
@@ -23,6 +23,7 @@ Application Development Associate @Accenture || Ex-IBM || Ex-Amazon || Microsoft
 
 ## ☁ Cloud Profile
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/gitansh16k/transcript/7k2eju3qj5zrmrn?tab=credentials-tab)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7FB628E710546C64C27BC949FA293E5DB61942DC20FB0974DA6EF8E8222C3CBF)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://coursera.org/verify/9YNRF9N664RZ)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 
