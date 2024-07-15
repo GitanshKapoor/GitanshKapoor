@@ -1,7 +1,7 @@
 
 # Hi, I'm Gitansh! 👋
 
-Software Engineer @Accenture | Ex-IBM | Ex-Amazon | Microsoft, Oracle & AWS Certified
+Software Engineer @Accenture | Ex-IBM | Ex-Amazon | Microsoft, Oracle, GitHub & AWS Certified
 
 ## About Me!
 
@@ -26,6 +26,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | Microsoft, Oracle & AWS Cert
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7FB628E710546C64C27BC949FA293E5DB61942DC20FB0974DA6EF8E8222C3CBF)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://coursera.org/verify/9YNRF9N664RZ)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/78b16350-e972-4fd8-aa4d-b57ed85aff1d)
 
 ## 🛠 Skills & Tools
 
