@@ -33,7 +33,8 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | Microsoft, Oracle, GitHub & 
 <p align="center">
       <br />
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" style="vertical-align:top; margin:4px"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="vertical-align:top; margin:4px"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" style="vertical-align:top; margin:4px"> 
 <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/85267939/147403229-7e12f96b-7e7d-4270-a4cf-4086b8c184ce.png" alt="python" style="vertical-align:top; margin:4px">
