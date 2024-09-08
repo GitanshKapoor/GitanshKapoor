@@ -29,7 +29,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | Microsoft, GitHub, HashiCorp
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/78b16350-e972-4fd8-aa4d-b57ed85aff1d)
 
 ## 🛠 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,terraform,linux,ansible,vscode,bash,powershell,vim,cloudflare,python,cs,figma,windows,ubuntu,maven,jenkins,kubernetes,docker,git,bitbucket,postman,mysql,visualstudio,selenium,gherkin,nginx,sublime,wordpress&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,terraform,linux,ansible,vscode,bash,powershell,vim,cloudflare,python,cs,figma,windows,ubuntu,githubactions,jenkins,kubernetes,docker,git,bitbucket,postman,mysql,visualstudio,selenium,gherkin,nginx,maven,wordpress&perline=10)](https://skillicons.dev)
 
 ## Contact Me!
 
