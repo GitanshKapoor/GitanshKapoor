@@ -7,7 +7,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 6X Microsoft, 3X Oracle, Has
 
 👩‍💻 I'm currently working at Accenture as a Software Engineer.
 
-🧠 I am deeply passionate about DevOps Eng./Automation Eng., CloudOps Eng. and Cloud Eng.
+🧠 I am deeply passionate about DevOps Eng., Infrastructure Automation Eng., CloudOps Eng. and Cloud Eng.
 
 👯‍♀️ I am a Team Player so, I like to work in a Team.
 
