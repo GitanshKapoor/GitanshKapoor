@@ -16,16 +16,17 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 6X Microsoft, 3X Oracle, Has
 ⚡️ Fun Fact There are About 300+ Coding Languages and I Know Some of them.😉😉
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xerp.me/gitansh16k)
-[![resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://zerp.me/olhPI)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
-[![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xerp.me/gitansh16k)
+[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://zerp.me/olhPI)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
 
 ## ☁ Cloud Profile
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/gitansh16k/transcript/vmzogczzx1le10o)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E8200656C0E816CC7AC0C2DAB96588030E35C716933625F7D3EE64C538EF840F)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://coursera.org/verify/9YNRF9N664RZ)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/ac5661c6-df85-4e1f-a0e8-725f12e6c6c5/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/78b16350-e972-4fd8-aa4d-b57ed85aff1d)
 
 ## 🛠 Skills & Tools
