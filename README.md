@@ -27,7 +27,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 7X Microsoft, 3X Oracle, Has
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://coursera.org/verify/9YNRF9N664RZ)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/ac5661c6-df85-4e1f-a0e8-725f12e6c6c5/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/78b16350-e972-4fd8-aa4d-b57ed85aff1d)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/bf5d48f2-2f5f-4277-aff2-23e37da4f633/)
 
 ## 🛠 Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,terraform,linux,ansible,vscode,bash,powershell,vim,cloudflare,python,cs,figma,windows,ubuntu,githubactions,jenkins,kubernetes,docker,git,bitbucket,postman,mysql,visualstudio,selenium,gherkin,nginx,maven,wordpress&perline=10)](https://skillicons.dev)
