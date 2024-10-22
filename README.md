@@ -17,7 +17,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 7X Microsoft, 3X Oracle, 2X 
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xerp.me/gitansh16k)
-[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://zerp.me/olhPI)
+[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=medium&logoColor=white)](https://xerp.me/ZfFRt)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
 
