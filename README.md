@@ -1,7 +1,7 @@
 
 # Hi, I'm Gitansh! 👋
 
-Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 8X Microsoft, 3X Oracle, 3X GitHub, HashiCorp, Salesforce & AWS Certified
+Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 9X Microsoft, 3X GitHub, 3X Oracle, HashiCorp, Salesforce & AWS Certified
 
 ## About Me!
 
