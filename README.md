@@ -17,7 +17,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 9X Microsoft, 5X GitHub, 3X 
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xerp.me/gitansh16k)
-[![Resume](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://xerp.me/ZfFRt)
+[![CertDirectory](https://img.shields.io/badge/Cert.Dir-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://github.com/GitanshKapoor/GitanshKapoor)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
 
