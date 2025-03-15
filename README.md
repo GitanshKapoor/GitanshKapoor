@@ -17,7 +17,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 10X Microsoft, 5X GitHub, 4X
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://xerp.me/gitansh16k)
-[![Credly](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gitansh16k)
+[![DevTo](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gitansh16k)
 [![Credly](https://img.shields.io/badge/credly-000?style=for-the-badge&logo=credly&logoColor=orange)](https://www.credly.com/users/gitansh16k)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k/)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/g.kapoor16/)
@@ -25,7 +25,7 @@ Software Engineer @Accenture | Ex-IBM | Ex-Amazon | 10X Microsoft, 5X GitHub, 4X
 ## ☁ Cloud Profile
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/gitansh16k/transcript/vmzogczzx1le10o)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E8200656C0E816CC7AC0C2DAB96588030E35C716933625F7D3EE64C538EF840F)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)](https://coursera.org/verify/9YNRF9N664RZ)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)](https://www.credly.com/badges/f1da9e5a-81ac-42ba-97a6-90f7680ae6c6)
 [![GCP](https://img.shields.io/badge/qwiklabs-1DA1F2?style=for-the-badge&logo=qwiklabs&logoColor=white)](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/ac5661c6-df85-4e1f-a0e8-725f12e6c6c5/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/bf5d48f2-2f5f-4277-aff2-23e37da4f633/)
