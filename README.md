@@ -52,7 +52,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 - **GCP:** [Qwiklabs](https://www.qwiklabs.com/public_profiles/1ccc44ec-8a48-4522-9d97-95ab85419b89)  
 - **HashiCorp:** [Terraform](https://www.credly.com/badges/ac5661c6-df85-4e1f-a0e8-725f12e6c6c5/), [Vault](https://www.credly.com/badges/8f10eafb-66be-42c4-8b54-721e3d1c51bc)
 - **Salesforce:** [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/gitansh16k)
-- - **Others:** [Others](https://www.credly.com/users/gitansh16k/badges) 
+- **Others:** [Credly](https://www.credly.com/users/gitansh16k/badges) 
 
 #
 
