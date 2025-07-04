@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, and Infrastructure Automation.
+  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, and Infrastructure Automation.
 </div>
 <br>
 
@@ -151,6 +151,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/gitansh16k)
   [![GitHub](https://skillicons.dev/icons?i=github&perline=10)](https://github.com/GitanshKapoor)
   [![Gmail](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:gitansh16k@gmail.com)
+  [![DevTo](https://skillicons.dev/icons?i=devto&perline=10)](https://dev.to/gitansh16k)
   [![ContactForm](https://skillicons.dev/icons?i=bots&perline=10)](https://forms.gle/Czxo9NrvUJBu87ur7)
   [![Instagram](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/g.kapoor16)
   
