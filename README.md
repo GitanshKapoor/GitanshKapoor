@@ -129,7 +129,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
   <tr>
     <td width="50%">
       <div align="center">
-        <strong> 🌟 Scalable Deployment and Architecture for Enterprise Tier-3 Applications </strong>
+        <strong> 🌟 Scalable Deployment and Architecture — Enterprise Tier-3 Application </strong>
       </div>
     </td>
     <td width="50%">
