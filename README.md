@@ -30,7 +30,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ### What I Do
 
-- 🌩️ **Cloud & DevOps Specialist**
+- ☁ **Cloud & DevOps Specialist**
   - Architecting scalable infrastructures on **AWS**, **Azure**, **Google Cloud**, and **Oracle**
   - Expertise in **Docker**, **Terraform**, and **Automation**
 - 🤖 **Automation Enthusiast**
