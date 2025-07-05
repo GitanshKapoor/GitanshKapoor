@@ -81,7 +81,8 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp&perline=10)](https://skillicons.dev)
 
 ### DevOps & CI/CD
-[![CICD](https://skillicons.dev/icons?i=jenkins,githubactions,azure&perline=10)](https://skillicons.dev)
+[![CICD](https://skillicons.dev/icons?i=jenkins,githubactions&perline=10)](https://skillicons.dev)
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/ADO.png" alt="Architecture Diagram" width="48px" height="48px"/>
 
 ### Containers
 [![Containers](https://skillicons.dev/icons?i=docker&perline=10)](https://skillicons.dev)
