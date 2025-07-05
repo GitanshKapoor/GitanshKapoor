@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, and Infrastructure Automation.
+  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, Intelligent Automation and Infrastructure Automation.
 </div>
 <br>
 
@@ -21,7 +21,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ---
 ## 🌐 About Me
-> [!IMPORTANT]
+> [!Notify]
 >
 > **Embracing DevOps, Cloud & AI  — One Resource at a Time**
 <table>
@@ -36,7 +36,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 - 🤖 **Automation Enthusiast**
   - CI/CD pipelines with **Jenkins**, **GitHub Actions**, and **Azure DevOps**
   - Infrastructure as Code (IaC) with **Terraform** and **Ansible**
-- 📝 **Monitoring**
+- 📝 **Monitoring & Observability Specialist**
   - Monitoring with **Prometheus**, **Grafana**, **Azure Monitor** and **AWS CloudWatch**
   - Log Analytics with Query with **PromQL** and **Kusto Query Language (KQL)**
 
@@ -59,10 +59,10 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 ### 🏆 **Certifications**
 - **11X Microsoft Certified**  
 - **6X GCP Certified**  
-- **5X GitHub Certified**  
-- **4X Oracle Certified**  
-- **2X HashiCorp Certified**  
-- **AWS Certified**  
+- **5X GitHub Certified**
+- **4X Oracle Certified**
+- **2X AWS Certified**
+- **2X HashiCorp Certified**    
 - **Salesforce Certified**
 
   <br>
@@ -75,37 +75,36 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 <div align="center">
   
 ### Scripting Languages
-[![Skills](https://skillicons.dev/icons?i=python,bash,powershell,cs&perline=10)](https://skillicons.dev)
+[![Scripting Language](https://skillicons.dev/icons?i=python,bash,powershell,cs&perline=10)](https://skillicons.dev)
 
 ### Cloud & Platforms
-[![Skills](https://skillicons.dev/icons?i=aws,azure,gcp&perline=10)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp&perline=10)](https://skillicons.dev)
 
 ### DevOps & CI/CD
-[![Skills](https://skillicons.dev/icons?i=jenkins,githubactions,azure&perline=10)](https://skillicons.dev)
+[![CICD](https://skillicons.dev/icons?i=jenkins,githubactions,azure&perline=10)](https://skillicons.dev)
 
 ### Containers
-[![Skills](https://skillicons.dev/icons?i=docker&perline=10)](https://skillicons.dev)
+[![Containers](https://skillicons.dev/icons?i=docker&perline=10)](https://skillicons.dev)
 
 ### IaC & Monitoring
-[![Skills](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus&perline=10)](https://skillicons.dev)
+[![IaC](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus&perline=10)](https://skillicons.dev)
 
 ### Operating System
-[![Skills](https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
 
 ### Databases & Version Control Systems
-[![Skills](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&perline=10)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
+[![VCS](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&perline=10)](https://skillicons.dev)
 
-### Message Queue Systems
-[![Skills](https://skillicons.dev/icons?i=kafka,rabbitmq&perline=10)](https://skillicons.dev)
+### Message Queue Systems & Caching
+[![MQS](https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=10)](https://skillicons.dev)
 
 ### Build Tools & API
-[![Skills](https://skillicons.dev/icons?i=maven&perline=10)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
+[![BT](https://skillicons.dev/icons?i=maven&perline=10)](https://skillicons.dev)
+[![API](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
 
 ### Cloud Distribution Network & Servers
-[![Skills](https://skillicons.dev/icons?i=cloudflare,npm,nginx,maven&perline=10)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=cloudflare&perline=10)](https://skillicons.dev)
+[![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx,maven&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -120,7 +119,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 </div>
 </td>
 <td width="50%">
-  <img src="https://drive.usercontent.google.com/u/0/uc?id=1230sdC0xk3126uj-IfbMv3eb7ty9OJHi&export=download" alt="Arch Diagram" height="180px"/>
+  <img src="https://drive.usercontent.google.com/u/0/uc?id=1230sdC0xk3126uj-IfbMv3eb7ty9OJHi&export=download" alt="Architecture Diagram" height="180px"/>
 </td>
 </tr>
 <tr>
