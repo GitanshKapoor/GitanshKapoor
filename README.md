@@ -126,29 +126,36 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 ## 📂 Projects
 
 <table>
-<tr>
-<td width="50%">
-
-<div align="center">
-  <strong> 🌟 Microservices Web Application — Scalable Deployment Architecture </strong>
-</div>
-</td>
-<td width="50%">
-  <img src="https://drive.usercontent.google.com/u/0/uc?id=1230sdC0xk3126uj-IfbMv3eb7ty9OJHi&export=download" alt="Architecture Diagram" height="180px"/>
-</td>
-</tr>
-<tr>
   <tr>
-<td width="50%">
-<div align="center">
-  <strong>🌟 Peer File Share 2.0</strong>
-</div>
-</td>
-<td width="50%">
-  <img src="https://drive.usercontent.google.com/u/0/uc?id=1RAF1fUWKxzjEoLlvOhPS6Mpe7MvsUaBH&export=download" alt="Peer File Share 2.0 Arch" height="180px"/>
-</td>
-</tr>
-<tr>
+    <td width="50%">
+      <div align="center">
+        <strong> 🌟 Scalable Deployment and Architecture for Enterprise Tier-3 Applications </strong>
+      </div>
+    </td>
+    <td width="50%">
+      <p align="center">Updating....</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <strong> 🌟 Microservices Web Application — Scalable Deployment Architecture </strong>
+      </div>
+    </td>
+    <td width="50%">
+      <img src="https://drive.usercontent.google.com/u/0/uc?id=1230sdC0xk3126uj-IfbMv3eb7ty9OJHi&export=download" alt="Architecture Diagram" height="180px"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <strong>🌟 Peer File Share 2.0</strong>
+      </div>
+    </td>
+    <td width="50%">
+      <img src="https://drive.usercontent.google.com/u/0/uc?id=1RAF1fUWKxzjEoLlvOhPS6Mpe7MvsUaBH&export=download" alt="Peer File Share 2.0 Arch" height="180px"/>
+    </td>
+  </tr>
 </table>
 
 ## 🤝 Connect With Me
