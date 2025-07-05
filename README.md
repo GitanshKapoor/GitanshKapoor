@@ -107,7 +107,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 [![API](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
 
 ### Cloud Distribution Network & Servers
-[![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx,maven&perline=10)](https://skillicons.dev)
+[![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx&perline=10)](https://skillicons.dev)
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Apache.png" alt="Apache Server" width="48px" height="48px"/>
 
 </div>
