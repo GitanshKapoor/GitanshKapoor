@@ -92,8 +92,10 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 ### Operating System
 [![OS](https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
 
-### Databases & Version Control Systems
+### Version Control Systems
 [![DB](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
+
+### Version Control Systems
 [![VCS](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket&perline=10)](https://skillicons.dev)
 
 ### Message Queue Systems & Caching
