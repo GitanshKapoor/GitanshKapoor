@@ -82,7 +82,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ### DevOps & CI/CD
 [![CICD](https://skillicons.dev/icons?i=jenkins,githubactions&perline=10)](https://skillicons.dev)
-<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MADO.png" alt="Azure DevOps" width="48px" height="48px"/>
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MADO.png" alt="Azure DevOps" width="46px" height="46px"/>
 
 ### Containers
 [![Containers](https://skillicons.dev/icons?i=docker&perline=10)](https://skillicons.dev)
@@ -91,7 +91,9 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 [![IaC](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus&perline=10)](https://skillicons.dev)
 
 ### Operating System
-[![OS](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat&perline=10)](https://skillicons.dev)
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/CentOS.png" alt="CentOS" width="46px" height="46px"/>
+[![OS](https://skillicons.dev/icons?i=windows&perline=10)](https://skillicons.dev)
 
 ### Database
 [![DB](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
@@ -104,11 +106,12 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ### Build Tools & API
 [![BT](https://skillicons.dev/icons?i=maven&perline=10)](https://skillicons.dev)
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MSBUILD.png" alt="MSBUILD" width="46px" height="46px"/>
 [![API](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
 
 ### Cloud Distribution Network & Servers
 [![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx&perline=10)](https://skillicons.dev)
-<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Apache.png" alt="Apache Server" width="48px" height="48px"/>
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/ApacheServer.png" alt="Apache Server" width="46px" height="46px"/>
 
 </div>
 
