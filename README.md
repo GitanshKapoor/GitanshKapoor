@@ -93,7 +93,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 ### Operating System
 [![OS](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
 
-### Version Control Systems
+### Database
 [![DB](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
 
 ### Version Control Systems
@@ -108,6 +108,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ### Cloud Distribution Network & Servers
 [![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx,maven&perline=10)](https://skillicons.dev)
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Apache.png" alt="Apache Server" width="48px" height="48px"/>
 
 </div>
 
