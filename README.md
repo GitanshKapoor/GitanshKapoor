@@ -90,7 +90,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 [![IaC](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus&perline=10)](https://skillicons.dev)
 
 ### Operating System
-[![OS](https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,windows&perline=10)](https://skillicons.dev)
 
 ### Version Control Systems
 [![DB](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
