@@ -102,7 +102,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/CentOS.png" alt="CentOS" width="46px" height="46px"/>
 [![OS](https://skillicons.dev/icons?i=windows&perline=10)](https://skillicons.dev)
 
-### Database
+### Databases
 [![DB](https://skillicons.dev/icons?i=mysql,dynamodb,postgres,sqlite&perline=10)](https://skillicons.dev)
 
 ### Version Control Systems
