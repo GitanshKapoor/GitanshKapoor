@@ -82,7 +82,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ### DevOps & CI/CD
 [![CICD](https://skillicons.dev/icons?i=jenkins,githubactions&perline=10)](https://skillicons.dev)
-<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/ADO.png" alt="Architecture Diagram" width="48px" height="48px"/>
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MADO.png" alt="Azure DevOps" width="48px" height="48px"/>
 
 ### Containers
 [![Containers](https://skillicons.dev/icons?i=docker&perline=10)](https://skillicons.dev)
