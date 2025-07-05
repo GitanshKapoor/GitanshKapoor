@@ -21,7 +21,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ---
 ## 🌐 About Me
-> [!Notify]
+> [!Tip]
 >
 > **Embracing DevOps, Cloud & AI  — One Resource at a Time**
 <table>
