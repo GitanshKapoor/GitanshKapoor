@@ -133,7 +133,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
       </div>
     </td>
     <td width="50%">
-      <p align="center">Updating....</p>
+      <p align="center">Updating Soon....</p>
     </td>
   </tr>
   <tr>
