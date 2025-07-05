@@ -103,6 +103,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
 ### Message Queue Systems & Caching
 [![MQS](https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=10)](https://skillicons.dev)
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Memcached.png" alt="Memcached" width="46px" height="46px"/>
 
 ### Build Tools & API
 [![BT](https://skillicons.dev/icons?i=maven&perline=10)](https://skillicons.dev)
