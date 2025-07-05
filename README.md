@@ -36,9 +36,9 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 - 🤖 **Automation Enthusiast**
   - CI/CD pipelines with **Jenkins**, **GitHub Actions**, and **Azure DevOps**
   - Infrastructure as Code (IaC) with **Terraform** and **Ansible**
-- 📝 **Monitoring & Observability Specialist**
-  - Monitoring with **Prometheus**, **Grafana**, **Azure Monitor** and **AWS CloudWatch**
-  - Log Analytics with Query with **PromQL** and **Kusto Query Language (KQL)**
+- 📊 **Monitoring & Observability Specialist**
+  - Monitoring with **Prometheus**, **Grafana**, **Azure Monitor**, and **AWS CloudWatch**
+  - Log Analysis & Querying using **Prometheus Query Language (PromQL)** and **Kusto Query Language (KQL)**
 
 </td>
 
