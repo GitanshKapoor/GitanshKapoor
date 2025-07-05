@@ -90,8 +90,9 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 [![CICD](https://skillicons.dev/icons?i=jenkins,githubactions&perline=10)](https://skillicons.dev)
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MADO.png" alt="Azure DevOps" width="46px" height="46px"/>
 
-### Containers
-[![Containers](https://skillicons.dev/icons?i=docker&perline=10)](https://skillicons.dev)
+### Containers & Orchestration
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes&perline=10)](https://skillicons.dev)
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Helm.png" alt="Helm" width="46px" height="46px"/>
 
 ### IaC & Monitoring
 [![IaC](https://skillicons.dev/icons?i=terraform,ansible,grafana,prometheus&perline=10)](https://skillicons.dev)
