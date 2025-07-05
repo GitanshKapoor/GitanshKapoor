@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, Intelligent Automation and Infrastructure Automation.
+  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>Collegedunia</strong>, <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, Intelligent Automation and Infrastructure Automation.
 </div>
 <br>
 
 ## 🚀 A Bit About My Career
 
-I’ve had the privilege of working at companies like **IBM**, **Amazon**, and **Accenture** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
+I’ve had the privilege of working at companies like **Collegedunia**, **IBM**, **Amazon**, and **Accenture** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
 
 
 ### 👯 Team Player & Research Enthusiast
