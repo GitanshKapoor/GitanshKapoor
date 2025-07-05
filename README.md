@@ -39,6 +39,12 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 - 📊 **Monitoring & Observability Specialist**
   - Monitoring with **Prometheus**, **Grafana**, **Azure Monitor**, and **AWS CloudWatch**
   - Log Analysis & Querying using **Prometheus Query Language (PromQL)** and **Kusto Query Language (KQL)**
+ 
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitanshKapoor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+</div>
 
 </td>
 
@@ -143,13 +149,6 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 </tr>
 <tr>
 </table>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitanshKapoor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitanshKapoor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-</div>
 
 ## 🤝 Connect With Me
 
