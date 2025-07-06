@@ -16,7 +16,7 @@
 I’ve had the privilege of working at companies like **PixXmo**, **Collegedunia**, **IBM**, **Amazon**, and **Accenture** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans accross multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
 
 
-### 👯 Team Player & Research Enthusiast
+### 🏆 Team Player & Research Enthusiast
 I’m a **team player** at heart and thrive in collaborative environments where innovation and learning are at the forefront. I constantly keep myself updated on the latest technologies and practices in cloud engineering, DevOps, and software automation.
 
 ---
