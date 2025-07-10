@@ -143,7 +143,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
       </div>
     </td>
     <td width="50%">
-      <img src="https://drive.usercontent.google.com/u/0/uc?id=1230sdC0xk3126uj-IfbMv3eb7ty9OJHi&export=download" alt="Architecture Diagram" height="180px"/>
+      <img src="https://drive.usercontent.google.com/u/0/uc?id=1230sdC0xk3126uj-IfbMv3eb7ty9OJHi&export=download" alt="Architecture Diagram"/>
     </td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
       </div>
     </td>
     <td width="50%">
-      <img src="https://drive.usercontent.google.com/u/0/uc?id=1RAF1fUWKxzjEoLlvOhPS6Mpe7MvsUaBH&export=download" alt="Peer File Share 2.0 Arch" height="180px"/>
+      <img src="https://drive.usercontent.google.com/u/0/uc?id=1RAF1fUWKxzjEoLlvOhPS6Mpe7MvsUaBH&export=download" alt="Peer File Share 2.0 Arch"/>
     </td>
   </tr>
 </table>
