@@ -139,6 +139,16 @@ I’m a **team player** at heart and thrive in collaborative environments where 
   <tr>
     <td width="50%">
       <div align="center">
+        <strong> [🌟 Bitbucket to Production: Automated Deployment Pipeline with AWS CodePipeline, S3, and EBS](url) </strong>
+      </div>
+    </td>
+    <td width="50%">
+      <img src="https://drive.usercontent.google.com/u/0/uc?id=1Wk8kYMhAcYfhPs2lclvGbZGDuU_yDioj&export=download" alt="Architecture Diagram"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div align="center">
         <strong> 🌟 Microservices Web Application — Scalable Deployment Architecture </strong>
       </div>
     </td>
