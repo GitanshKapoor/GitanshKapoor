@@ -139,7 +139,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
   <tr>
     <td width="50%">
       <div align="center">
-        <strong> 🌟 Bitbucket to Production: Automated Deployment Pipeline with AWS CodePipeline, S3, and EBS </strong>
+        <strong> 🌟 Bitbucket to Production: Automated Deployment with AWS CodePipeline, S3, and EBS </strong>
       </div>
     </td>
     <td width="50%">
