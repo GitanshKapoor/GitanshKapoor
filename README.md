@@ -113,7 +113,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Memcached.png" alt="Memcached" width="46px" height="46px"/>
 
 ### Build Tools & API
-[![BT](https://skillicons.dev/icons?i=maven&perline=10)](https://skillicons.dev)
+[![BT](https://skillicons.dev/icons?i=maven,gradle&perline=10)](https://skillicons.dev)
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MSBUILD.png" alt="MSBUILD" width="46px" height="46px"/>
 [![API](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
 
