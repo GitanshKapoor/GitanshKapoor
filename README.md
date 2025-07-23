@@ -63,7 +63,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 #
 
 ### 🏆 **Certifications**
-- **12X Microsoft Certified**  
+- **13X Microsoft Certified**  
 - **6X GCP Certified**  
 - **5X GitHub Certified**
 - **4X Oracle Certified**
