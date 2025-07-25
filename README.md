@@ -115,7 +115,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 ### Build Tools & API
 [![BT](https://skillicons.dev/icons?i=maven,gradle&perline=10)](https://skillicons.dev)
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/MSBUILD.png" alt="MSBUILD" width="46px" height="46px"/>
-[![API](https://skillicons.dev/icons?i=postman&perline=10)](https://skillicons.dev)
+[![API](https://skillicons.dev/icons?i=postman,apigee&perline=10)](https://skillicons.dev)
 
 ### Cloud Distribution Network & Servers
 [![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx&perline=10)](https://skillicons.dev)
