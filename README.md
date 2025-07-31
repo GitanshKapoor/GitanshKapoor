@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_SRE_%7C_Docker_%7C_CI/CD_%7C_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
+[![DevOps Engineer | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/DevOps_Engineer_|_Cloud_|_Automation_|_SRE_|_Docker_|_K8s_|_CI/CD_|_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
 
 </div>
 
