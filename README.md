@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | SRE | Docker | CI/CD | Monitoring](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_SRE_%7C_Docker_%7C_CI/CD_%7C_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
+[![DevOps Engineer | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_SRE_%7C_Docker_%7C_CI/CD_%7C_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
 
 </div>
 
@@ -175,10 +175,10 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/gitansh16k)
   [![GitHub](https://skillicons.dev/icons?i=github&perline=10)](https://github.com/GitanshKapoor)
+  [![Instagram](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/g.kapoor16)
   [![Gmail](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:gitansh16k@gmail.com)
   [![DevTo](https://skillicons.dev/icons?i=devto&perline=10)](https://dev.to/gitansh16k)
   [![ContactForm](https://skillicons.dev/icons?i=bots&perline=10)](https://forms.gle/Czxo9NrvUJBu87ur7)
-  [![Instagram](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/g.kapoor16)
   
 
 </div>
