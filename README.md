@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer with over 3 years of hands-on experience, focused on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>PixXmo</strong>, <strong>Collegedunia</strong>, <strong>IBM</strong>, <strong>Amazon</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, Intelligent Automation and Infrastructure Automation.
+  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer with over 3 years of hands-on experience, focused on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>PixXmo</strong>, <strong>Collegedunia</strong>, <strong>Kyrex Digitech</strong>, <strong>Amazon</strong>, <strong>IBM</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, Intelligent Automation and Infrastructure Automation.
 </div>
 <br>
 
