@@ -122,6 +122,11 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 [![CDN](https://skillicons.dev/icons?i=selenium&perline=10)](https://skillicons.dev)
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Playwright.png" alt="Playwright" width="46px" height="46px"/>
 
+### Application Lifecycle Management & Issue Tracking
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Azure Board.png" alt="Playwright" width="46px" height="46px"/>
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/JIRA.png" alt="Playwright" width="46px" height="46px"/>
+<img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/Confluence.png" alt="Playwright" width="46px" height="46px"/>
+
 ### Cloud Distribution Network & Servers
 [![CDN](https://skillicons.dev/icons?i=cloudflare,npm,nginx&perline=10)](https://skillicons.dev)
 <img src="https://github.com/GitanshKapoor/GitanshKapoor/blob/main/ApacheServer.png" alt="Apache Server" width="46px" height="46px"/>
