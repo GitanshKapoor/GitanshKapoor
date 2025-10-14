@@ -202,4 +202,4 @@ I’m a **team player** at heart and thrive in collaborative environments where 
   <img src="https://imgur.com/meVJnmd.png" alt="Footer Banner" width="800px">
 </div>
 
---
+---
