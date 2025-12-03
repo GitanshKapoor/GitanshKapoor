@@ -2,18 +2,18 @@
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/DevOps_Engineer_|_Cloud_|_Automation_|_SRE_|_Docker_|_K8s_|_CI/CD_|_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
+[![Platform Engineer | DevOps | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/Platform_Egnineer_|_DevOps_|_Cloud_|_Automation_|_SRE_|_Docker_|_K8s_|_CI/CD_|_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
 
 </div>
 
 <div align="center">
-  Hey there!</strong> 👋 I'm a passionate Cloud DevOps Engineer with over 3 years of hands-on experience, focused on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>PixXmo</strong>, <strong>Collegedunia</strong>, <strong>Kyrex DigiTech</strong>, <strong>Amazon</strong>, <strong>IBM</strong>, and <strong>Accenture</strong>, I specialize in CloudOps, DevOps, Intelligent Automation and Infrastructure Automation.
+  Hey there!</strong> 👋 I'm a passionate Infrastructure Consultant with over 3 years of hands-on experience, focused on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>PixXmo</strong>, <strong>Collegedunia</strong>, <strong>Kyrex DigiTech</strong>, <strong>Amazon</strong>, <strong>IBM</strong>, <strong>Accenture</strong> and <strong>Deloitte</strong> I specialize in Platform Engineering CloudOps, AIOps, DevOps, Intelligent Automation and Infrastructure Automation.
 </div>
 <br>
 
 ## 🚀 A Bit About My Career
 
-I’ve had the privilege of working at companies like **PixXmo**, **Collegedunia**, **IBM**, **Amazon**, and **Accenture** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans accross multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
+I’ve had the privilege of working at companies like **PixXmo**, **Collegedunia**, **IBM**, **Amazon**, **Accenture** and **Deloitte** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans accross multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
 
 
 ### 🏆 Team Player & Research Enthusiast
