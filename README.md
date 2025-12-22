@@ -13,7 +13,7 @@
 
 ## 🚀 A Bit About My Career
 
-I’ve had the privilege of working at companies like **PixXmo**, **Collegedunia**, **IBM**, **Amazon**, **Accenture** and **Deloitte** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans accross multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
+I’ve had the privilege of working at companies like **PixXmo**, **Collegedunia**, **IBM**, **Amazon**, **Accenture**, **Deloitte** and **Onecom** where I gained experience in a variety of cloud technologies, DevOps, Data, AI and software engineering. My work spans accross multiple platforms and cloud providers like **Azure**, **AWS**, **Google Cloud**, and **Oracle**, as well as automation tools like **Terraform**, **Ansible**, **Azure DevOps** and **Jenkins**.
 
 
 ### 🏆 Team Player & Research Enthusiast
