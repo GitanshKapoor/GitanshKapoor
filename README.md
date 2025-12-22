@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Platform Engineer | DevOps | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/Platform_Egnineer_|_DevOps_|_Cloud_|_Automation_|_SRE_|_Docker_|_K8s_|_CI/CD_|_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
+[![Platform Engineer | DevOps | Cloud | Automation | SRE | Docker | K8s | CI/CD | Monitoring](https://img.shields.io/badge/Platform_Engineer_|_DevOps_|_Cloud_|_Automation_|_SRE_|_Docker_|_K8s_|_CI/CD_|_Monitoring-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://xerp.me/gitansh16k)
 
 </div>
 
