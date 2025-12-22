@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  Hey there!</strong> 👋 I'm a passionate Infrastructure Consultant with over 3 years of hands-on experience, focused on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>PixXmo</strong>, <strong>Collegedunia</strong>, <strong>Kyrex DigiTech</strong>, <strong>Amazon</strong>, <strong>IBM</strong>, <strong>Accenture</strong> and <strong>Deloitte</strong> I specialize in Platform Engineering, CloudOps, AIOps, DevOps, Intelligent Automation and Infrastructure Automation.
+  Hey there!</strong> 👋 I'm a passionate Platform Consultant with over 3 years of hands-on experience, focused on a mission to automate everything and scale cloud infrastructures efficiently. With extensive experience across companies like <strong>PixXmo</strong>, <strong>Collegedunia</strong>, <strong>Kyrex DigiTech</strong>, <strong>Amazon</strong>, <strong>IBM</strong>, <strong>Accenture</strong>, <strong>Deloitte</strong> and <strong>Onecom</strong>. I specialize in Platform Engineering, CloudOps, AIOps, DevOps, Intelligent Automation and Infrastructure Automation.
 </div>
 <br>
 
@@ -63,7 +63,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 #
 
 ### 🏆 **Certifications**
-- **16X Microsoft Certified**  
+- **17X Microsoft Certified**  
 - **7X GCP Certified**  
 - **5X GitHub Certified**
 - **4X Oracle Certified**
