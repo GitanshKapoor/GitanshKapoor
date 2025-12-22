@@ -17,7 +17,7 @@ I’ve had the privilege of working at companies like **PixXmo**, **Collegedunia
 
 
 ### 🏆 Team Player & Research Enthusiast
-I’m a **team player** at heart and thrive in collaborative environments where innovation and learning are at the forefront. I constantly keep myself updated on the latest technologies and practices in cloud engineering, DevOps, and software automation.
+I’m a **team player** at heart and thrive in collaborative environments where innovation and learning are at the forefront. I constantly keep myself updated on the latest technologies and practices in Platform Engineering, Cloud Engineering, DevOps, and Software Automation.
 
 ---
 ## 🌐 About Me
