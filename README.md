@@ -184,7 +184,7 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=10)](https://www.linkedin.com/in/gitansh16k)
   [![GitHub](https://skillicons.dev/icons?i=github&perline=10)](https://github.com/GitanshKapoor)
-  [![Instagram](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/g.kapoor16)
+  [![Instagram](https://skillicons.dev/icons?i=instagram&perline=10)](https://www.instagram.com/gitansh16k)
   [![Gmail](https://skillicons.dev/icons?i=gmail&perline=10)](mailto:gitansh16k@gmail.com)
   [![DevTo](https://skillicons.dev/icons?i=devto&perline=10)](https://dev.to/gitansh16k)
   [![ContactForm](https://skillicons.dev/icons?i=bots&perline=10)](https://forms.gle/Czxo9NrvUJBu87ur7)
