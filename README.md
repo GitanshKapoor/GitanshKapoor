@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=210&section=header&text=Gitansh%20Kapoor&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Platform%20Engineering%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=18" alt="Gitansh Kapoor - DevOps and Platform Engineer">
 
 <a href="https://github.com/GitanshKapoor">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Kubernetes+%7C+Terraform+%7C+GitOps+%7C+Observability;Building+reliable+platforms+across+GCP%2C+AWS+and+Azure" alt="Cloud-native platform engineering focus">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Docker+%7C+Kubernetes+%7C+Terraform+%7C+GitOps+%7C+Observability;Building+reliable+platforms+across+GCP%2C+AWS+and+Azure" alt="Cloud-native platform engineering focus">
 </a>
 
 <div align="center">
