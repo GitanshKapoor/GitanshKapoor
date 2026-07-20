@@ -16,7 +16,7 @@ DevOps and Platform Engineer building reliable cloud-native platforms, Infrastru
 
 My work spans Kubernetes, multi-cloud infrastructure, CI/CD automation, DevSecOps, reliability, and developer enablement across **Onecom, Deloitte, and Accenture**.
 
-I contribute to CNCF ecosystem projects including **Backstage** and **OpenTelemetry**. I am also interested in applying my platform engineering, observability, and distributed-computing experience to **AIOps and MLOps**.
+I contribute to CNCF ecosystem projects including **Backstage**, **ArgoCD**, **Prometheus** and **OpenTelemetry**. I am also interested in applying my platform engineering, observability, and distributed-computing experience to **AIOps and MLOps**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k)
 [![Email](https://img.shields.io/badge/Email-Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitansh16k@gmail.com)
