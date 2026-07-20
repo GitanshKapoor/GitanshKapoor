@@ -43,7 +43,11 @@ I’m a **team player** at heart and thrive in collaborative environments where 
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitanshKapoor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=GitanshKapoor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
 </div>
 
 </td>
