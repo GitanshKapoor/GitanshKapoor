@@ -41,7 +41,7 @@ I contribute to CNCF ecosystem projects including **Backstage**, **ArgoCD**, **P
 
 ### CI/CD, GitOps and Collaboration
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions&theme=dark&perline=5" alt="GitHub Actions, Jenkins, Git, GitHub and GitLab"> <img src="./MADO.png" width="48" height="48" alt="Azure DevOps" title="Azure DevOps"> <img src="./argocd.png" width="46" height="46" alt="Argo CD" title="Argo CD">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions&theme=dark&perline=5" alt="GitHub Actions, Jenkins, Git, GitHub and GitLab"> <img src="./MADO.png" width="48" height="48" alt="Azure DevOps" title="Azure DevOps"> <img src="./argocd.png" width="47" height="47" alt="Argo CD" title="Argo CD">
 
 ### Observability, Logging and Security
 
