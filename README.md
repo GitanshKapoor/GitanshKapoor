@@ -23,7 +23,7 @@ I contribute to CNCF ecosystem projects including **Backstage**, **ArgoCD**, **P
 
 ## Production Impact
 
-![Dependencies](https://img.shields.io/badge/200%2B-Dependencies_Automated-0EA5E9?style=for-the-badge)
+![Dependencies](https://img.shields.io/badge/200%2B-Dependencies_Vuln_Scan_Automated-0EA5E9?style=for-the-badge)
 ![CVE Triage](https://img.shields.io/badge/60%25-Less_Manual_CVE_Triage-0284C7?style=for-the-badge)
 ![Deployments](https://img.shields.io/badge/44%25-Faster_Deployments-0369A1?style=for-the-badge)
 ![Compute Cost](https://img.shields.io/badge/37%25-Lower_Compute_Cost-0F766E?style=for-the-badge)
