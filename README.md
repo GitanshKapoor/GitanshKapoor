@@ -14,7 +14,7 @@
 
 DevOps and Platform Engineer building reliable cloud-native platforms, Infrastructure as Code, GitOps delivery, and production observability.
 
-My work spans Kubernetes, multi-cloud infrastructure, CI/CD automation, DevSecOps, reliability, and developer enablement across **Onecom, Deloitte, and Accenture**.
+My work spans Kubernetes, multi-cloud infrastructure, CI/CD automation, DevSecOps, reliability, and developer enablement across **Onecom, Deloitte, Accenture, IBM, Amazon**.
 
 I contribute to CNCF ecosystem projects including **Backstage**, **ArgoCD**, **Prometheus** and **OpenTelemetry**. I am also interested in applying my platform engineering, observability, and distributed-computing experience to **AIOps and MLOps**.
 
