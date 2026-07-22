@@ -47,7 +47,7 @@ I contribute to CNCF ecosystem projects including **Backstage**, **ArgoCD**, **P
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark&perline=3" alt="Prometheus, Grafana and Elasticsearch"> <img src="./OpenTelemetry.png" width="46" height="46" alt="OpenTelemetry" title="OpenTelemetry"> <img src="./SonarQube.png" width="46" height="46" alt="SonarQube" title="SonarQube"> <img src="./Trivy.png" width="46" height="46" alt="Trivy" title="Trivy">
 
-### Programming, APIs and Data
+### Scripting, APIs and Data
 
 <img src="https://skillicons.dev/icons?i=python,bash,fastapi,postgres,redis,rabbitmq&theme=dark&perline=6" alt="Python, Bash, FastAPI, PostgreSQL, Redis and RabbitMQ">
 
