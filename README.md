@@ -299,7 +299,7 @@ Containerized Java applications using multistage builds and automated Linux conf
 
 I am interested in conversations about **Platform Engineering, DevOps, Cloud Infrastructure, SRE, open source, AIOps, and MLOps**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitansh16k)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitansh16k@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0369A1,100:0F172A&height=100&section=footer" alt="Footer">
