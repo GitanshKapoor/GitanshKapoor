@@ -35,19 +35,19 @@ I contribute to CNCF ecosystem projects including **Backstage**, **ArgoCD**, **P
 
 <img src="https://skillicons.dev/icons?i=gcp,aws,azure,terraform,ansible,linux&theme=dark&perline=6" alt="GCP, AWS, Azure, Terraform, Ansible and Linux">
 
-### Containers and Platform Engineering
+### Containers, Orchestration and Platform Engineering
 
 <img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark&perline=2" alt="Kubernetes and Docker"> <img src="./Helm.png" width="48" height="48" alt="Helm" title="Helm">
 
 ### CI/CD, GitOps and Collaboration
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions&theme=dark&perline=5" alt="GitHub Actions, Jenkins, Git, GitHub and GitLab"> <img src="./MADO.png" width="48" height="48" alt="Azure DevOps" title="Azure DevOps"> <img src="./argocd.png" width="47" height="47" alt="Argo CD" title="Argo CD">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,githubactions&theme=dark&perline=5" alt="GitHub Actions, Jenkins, Git, GitHub and GitLab"> <img src="./MADO.png" width="48" height="48" alt="Azure DevOps" title="Azure DevOps"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="47" height="47" alt="Argo CD" title="Argo CD">
 
 ### Observability, Logging and Security
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark&perline=3" alt="Prometheus, Grafana and Elasticsearch"> <img src="./OpenTelemetry.png" width="46" height="46" alt="OpenTelemetry" title="OpenTelemetry"> <img src="./SonarQube.png" width="46" height="46" alt="SonarQube" title="SonarQube"> <img src="./Trivy.png" width="46" height="46" alt="Trivy" title="Trivy">
 
-### Scripting, APIs and Data
+### Scripting, APIs, Web Servers and Data
 
 <img src="https://skillicons.dev/icons?i=python,bash,fastapi,postgres,redis,rabbitmq&theme=dark&perline=6" alt="Python, Bash, FastAPI, PostgreSQL, Redis and RabbitMQ">
 
