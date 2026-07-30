@@ -242,7 +242,7 @@ Event-driven file-sharing platform supporting large uploads with controlled, tim
 
 `Azure Functions` `Blob Storage` `Logic Apps` `SAS` `GitHub Actions` `Serverless` `Event-Driven Architecture`
 
-[![View Architecture](https://img.shields.io/badge/View-Architecture-0078D4?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://drive.google.com/file/d/1RAF1fUWKxzjEoLlvOhPS6Mpe7MvsUaBH/view?usp=sharing)
+[![View Architecture](https://img.shields.io/badge/View-Architecture-0078D4?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://drive.google.com/file/d/1RAF1fUWKxzjEoLlvOhPS6Mpe7MvsUaBH/view?usp=sharing) [![View Repository](https://img.shields.io/badge/View-Repository-0369A1?style=flat-square&logo=github&logoColor=white)](https://github.com/GitanshKapoor/peer-file-share)
 
 ---
 
